@@ -29,7 +29,6 @@ Built as a break from paper-writing on 12 August 2026 (World Elephant Day). What
 
 ```
 ├── elephant_day_2026_en.ipynb      # main analysis notebook (English)
-├── elephant_day_2026.ipynb         # main analysis notebook (Turkish)
 ├── elephant_species_infographic.png
 ├── iucn_range_maps.png
 ├── elephant_threats_sankey.html
