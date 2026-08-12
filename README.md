@@ -29,12 +29,12 @@ Built as a break from paper-writing on 12 August 2026 (World Elephant Day). What
 
 ```
 ├── elephant_day_2026_en.ipynb      # main analysis notebook (English)
-├── elephant_species_infographic.png
-├── iucn_range_maps.png
-├── elephant_threats_sankey.html
-├── etosha_*.png / .gif             # movement visualizations
-├── movement_vs_rainfall*.png       # ERA5 cross-analysis
-└── world_elephant_day_2026.md      # accompanying blog post
+├── figures
+  ├── elephant_species_infographic.png
+  ├── iucn_range_maps.png
+  ├── elephant_threats_sankey.html
+  ├── etosha_*.png / .gif             # movement visualizations
+  ├── movement_vs_rainfall*.png       # ERA5 cross-analysis
 ```
 
 ## Running it yourself
@@ -55,7 +55,7 @@ You'll need your own credentials for Movebank (username/password) and the IUCN R
 
 ## Author
 
-Ece Özen İldem — [Earth Systems Playground](https://codebeyondtheearth.substack.com) · TBV / Intertech
+Ece Özen İldem — [Earth Systems Playground](https://codebeyondtheearth.substack.com) 
 
 ## License
 
